@@ -25,6 +25,12 @@
    git clone https://github.com/username/friesstore.git
 - Done !
 ---
+## 📦 Live Website
+
+- **Live Friesstore Website**
+   ```https://malvinjauhari.github.io/friesstore/
+- Done !
+---
 ## 📂 Struktur Folder
 
 ```plaintext
