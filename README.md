@@ -29,13 +29,16 @@ FriesStore/
 │   └── images/
        └── image1.jpg/
 ---
+
+
+
+---
 ## 📦 Cara Menggunakan
 
-1. **Clone Repository**
+- **Clone Repository**
    Clone repository ini ke komputer Anda menggunakan perintah berikut:
    ```bash
    git clone https://github.com/username/friesstore.git
-2. Done !
-
+- Done !
 
 
