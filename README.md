@@ -22,13 +22,14 @@
 - **Clone Repository**
    Clone repository ini ke komputer Anda menggunakan perintah berikut:
    ```bash
-   git clone https://github.com/username/friesstore.git
+   git clone https://github.com/malvinjauhari/friesstore.git
 - Done !
 ---
 ## 📦 Live Website
 
 - **Live Friesstore Website**
-   ```https://malvinjauhari.github.io/friesstore/
+   ```bash
+   https://malvinjauhari.github.io/friesstore/
 - Done !
 ---
 ## 📂 Struktur Folder
