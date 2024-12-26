@@ -17,7 +17,14 @@
 - **CSS**: Untuk desain dan styling.
 
 ---
+## 📦 Cara Menggunakan
 
+- **Clone Repository**
+   Clone repository ini ke komputer Anda menggunakan perintah berikut:
+   ```bash
+   git clone https://github.com/username/friesstore.git
+- Done !
+---
 ## 📂 Struktur Folder
 
 ```plaintext
@@ -29,16 +36,5 @@ FriesStore/
 │   └── images/
        └── image1.jpg/
 ---
-
-
-
----
-## 📦 Cara Menggunakan
-
-- **Clone Repository**
-   Clone repository ini ke komputer Anda menggunakan perintah berikut:
-   ```bash
-   git clone https://github.com/username/friesstore.git
-- Done !
 
 
